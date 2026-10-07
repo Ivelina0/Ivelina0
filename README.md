@@ -22,7 +22,7 @@ I’m also developing an interest in **commodity and energy derivatives**, parti
 ## Scientific computing
 
 I mainly work with **Python, PyTorch, and NumPy**. I train neural networks using **GPU resources at Queen Mary’s Digital Environment Research Institute (DERI)** and run CPU-based numerical experiments on **Queen Mary’s Apocrita high-performance computing cluster**.
-___
+
 ## History of mathematics and outreach
 
 I’m interested in the **history and philosophy of mathematics**: the problems that originally motivated theories, why their constructions made sense at the time, and how others applied and extended them to solve new problems. I enjoy exploring original sources to understand the intuition and practical questions behind the mathematics we study today.
@@ -40,7 +40,7 @@ I contributed two chapters to Queen Mary’s [*History of Mathematics* booklet](
 ### Outreach
 
 I give voluntary presentations to undergraduates at Queen Mary about the project and our findings, encouraging students to explore original sources and use historical context to deepen their understanding of the mathematics they are learning.
-___
+
 ## Teaching experience
 
 I have worked as a **Teaching Assistant and Lab Demonstrator at Queen Mary University of London**, supporting students through mathematics tutorials and practical computing classes.
