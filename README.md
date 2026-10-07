@@ -1,4 +1,4 @@
-# Hi, I’m Ivelina 👋
+# Hi, I’m Ivelina Mladenova👋
 
 I’m a **Mathematics PhD student at Queen Mary University of London**, working at the intersection of **deep learning, numerical analysis, and mathematical finance**.
 
