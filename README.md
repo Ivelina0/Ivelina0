@@ -23,6 +23,7 @@ I mainly work with **Python, PyTorch, and NumPy**, training neural networks on *
 
 <sub>Most of my ongoing PhD research is developed in private repositories, so the associated code is not currently publicly available.</sub>
 
+___
 ### History of mathematics and outreach
 
 I’m interested in the **history and philosophy of mathematics**: the original problems that motivated mathematical theories, why their constructions made sense at the time, and how others subsequently applied and extended them to solve new problems. I enjoy looking beyond textbook presentations to explore the original sources, intuition, and practical questions that shaped the mathematics we study today.
@@ -33,7 +34,7 @@ I have contributed two chapters to Queen Mary’s [*History of Mathematics* book
 * **Chapter 7 — The Theory that Would Not Die: Bayesian Probability.** The following year, I independently wrote a chapter exploring Bayes’ theorem and the development of Bayesian probability.
 
 I also give voluntary presentations to undergraduates at Queen Mary about the project and our findings, encouraging students to explore original sources and use historical context to deepen their understanding of the mathematics they are learning.
-
+___
 ### Teaching experience
 
 Alongside my PhD, I have worked as a **Teaching Assistant and Lab Demonstrator at Queen Mary University of London**, supporting students through mathematics tutorials and practical computing classes.
