@@ -4,7 +4,7 @@ I’m a Mathematics PhD student at **Queen Mary University of London**, working 
 
 <!-- My research focuses on **high-dimensional option pricing under stochastic volatility**, including problems involving multiple underlying assets, such as **European basket and spread options**. I develop neural network methods to approximate solutions of parametric partial differential equations for **option pricing and sensitivities (Greeks)**. I’m interested in both developing practical numerical methods and understanding their accuracy through mathematical error bounds. -->
 
-My research focuses on high-dimensional option pricing under stochastic volatility, including European basket and spread options. I develop and apply parametric physics-informed neural networks (PINNs) and establish theoretical results for their approximation accuracy, including derivatives with respect to state variables and model parameters used to compute sensitivities (Greeks). I also work with high-dimensional Fourier methods for option pricing.
+My research focuses on **high-dimensional option pricing under stochastic volatility**, including **European basket and spread options**. I develop and apply parametric physics-informed neural networks (PINNs) and establish theoretical results for their approximation accuracy, including derivatives with respect to state variables and model parameters used to compute sensitivities (Greeks). I also work with **high-dimensional Fourier methods** for option pricing.
 
 I’m also developing an interest in **commodity and energy derivatives**, particularly how these methods can be applied to option pricing in oil, gas, and related markets.
 
