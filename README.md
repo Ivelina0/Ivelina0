@@ -34,6 +34,28 @@ I have contributed two chapters to Queen Mary’s [*History of Mathematics* book
 
 I also give voluntary presentations to undergraduates at Queen Mary about the project and our findings, encouraging students to explore original sources and use historical context to deepen their understanding of the mathematics they are learning.
 
+### Teaching experience
+
+Alongside my PhD, I have worked as a **Teaching Assistant and Lab Demonstrator at Queen Mary University of London**, supporting students through mathematics tutorials and practical computing classes.
+
+**Mathematics tutorials**
+
+* Applied Calculus
+* Introduction to Analysis with Calculus
+* Probability & Statistics
+
+**Computing and statistics labs**
+
+* Statistical Modelling I
+* Probability and Statistics I
+* Introduction to Computer Programming
+* Financial Data Analytics
+* Introduction to Machine Learning
+* Numerical Computing with C and C++
+
+I have also contributed to **exam marking and mark checking**, including for *Mathematical Tools for Asset Management* and *Numerical Computing with C and C++*.
+
+
 
     
 
