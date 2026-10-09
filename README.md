@@ -50,6 +50,7 @@ I have worked as a **Teaching Assistant and Lab Demonstrator at Queen Mary Unive
 * Applied Calculus
 * Introduction to Analysis with Calculus
 * Probability & Statistics
+* Differential Equations
 
 ### Computing and statistics labs
 
