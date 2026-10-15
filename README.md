@@ -43,6 +43,7 @@ I give voluntary presentations to undergraduates at Queen Mary about the project
 
 [*History of Mathematics Module Seminar Slides*](https://github.com/Ivelina0/History-of-Maths-Module-Lecture-Presentation)
 
+Sometimes organise Women in STEM Hackathons for QMUL. Here is a Vibe-Coded [*Hackathon-Details-Website*](https://github.com/Ivelina0/women-in-stem-hackathon) for my presentation on how to use GitHub and Codex to Vibe-Code.  
 
 ## Teaching experience
 
