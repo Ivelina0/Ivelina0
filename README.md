@@ -41,6 +41,9 @@ I contributed two chapters to Queen Mary’s [*History of Mathematics* booklet](
 
 I give voluntary presentations to undergraduates at Queen Mary about the project and our findings, encouraging students to explore original sources and use historical context to deepen their understanding of the mathematics they are learning.
 
+[*History of Mathematics Module Seminar Slides*](https://github.com/Ivelina0/History-of-Maths-Module-Lecture-Presentation)
+
+
 ## Teaching experience
 
 I have worked as a **Teaching Assistant and Lab Demonstrator at Queen Mary University of London**, supporting students through mathematics tutorials and practical computing classes.
